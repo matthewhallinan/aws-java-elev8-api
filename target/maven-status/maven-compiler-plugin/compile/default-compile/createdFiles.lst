@@ -1,0 +1,9 @@
+com\serverless\ApiGatewayResponse$Builder.class
+com\serverless\Response.class
+com\serverless\dal\User.class
+com\serverless\dal\Elevator.class
+com\serverless\ApiGatewayResponse.class
+com\serverless\dal\Building.class
+com\serverless\dal\DynamoDBAdapter.class
+com\serverless\CreateUser.class
+com\serverless\GetUser.class
